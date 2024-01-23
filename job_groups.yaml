@@ -1,0 +1,5 @@
+groups:
+  - label: A
+    rate: 20
+  - label: B
+    rate: 30
